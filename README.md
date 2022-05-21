@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate fullstack code eater from Rwanda</h3>
+<h3 align="center">A passionate fullstack developer from Rwanda</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chainerprince&label=Profile%20views&color=0e75b6&style=flat" alt="chainerprince" /> </p> -->
 
-- 🔭 I’m currently working on [POS system](https://zebra-stock-manager.herokuapp.com/)
 
-- 🌱 I’m currently learning **Java,Kotlin,DEFI**
+- 🌱 I’m currently learning **Spring boot,Kotlin,Golang**
 
-- 👨‍💻 All of my projects are available at [https://pmutegetsi.me](https://pmutegetsi.me)
 
 - 📫 How to reach me **https://pmutegetsi.me**
 
